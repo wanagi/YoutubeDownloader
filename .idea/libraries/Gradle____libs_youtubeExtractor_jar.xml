@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/youtubeExtractor.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/youtubeExtractor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
